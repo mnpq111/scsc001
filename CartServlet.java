@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 购物车添加的Servlet类
  * 
- * @author 孙超
+ * @author
  * @version 1.0, 2017-08-22 09:55:15
  */
 @WebServlet("/CartServlet")
