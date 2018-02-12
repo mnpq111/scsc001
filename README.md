@@ -1,2 +1,0 @@
-# scsc001
-weixin
